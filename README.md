@@ -13,7 +13,7 @@ of Minecraft.
 - pyglet
 - NBT
 
-Shortcut: `pip -r requirements.txt`
+Shortcut: `pip install -r requirements.txt`
 
 ### For Development
 - [Black](https://github.com/ambv/black) (Required for formatting)
@@ -46,7 +46,7 @@ generated directory `docs_build/html` in your favorite web browser
 
 ### Running from Source
 1. Clone the project using `git clone https://github.com/Amulet-Team/Amulet-Map-Editor`
-2. When inside the folder you cloned, install the requirements using `pip -r requirements.txt`
+2. When inside the folder you cloned, install the requirements using `pip install -r requirements.txt`
 3. To format your files automatically before committing changes, use `pre-commit install`
 
 ### Branch Naming
